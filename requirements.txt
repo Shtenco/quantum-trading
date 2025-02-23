@@ -1,0 +1,6 @@
+MetaTrader5
+numpy
+qiskit
+qiskit-aer
+pycryptodome
+pandas
