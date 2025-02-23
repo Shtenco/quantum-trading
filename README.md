@@ -21,3 +21,16 @@ This repository contains a Python project that uses quantum computing (IBM Q) an
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/quantum-trading.git
+Install the required packages:
+
+pip install -r requirements.txt
+
+Ensure MetaTrader 5 is installed and configured on your system.
+Usage
+
+Run the main script:
+
+python main.py
+Follow the prompts to enter the event horizon point offset and horizon length.
+License
+This project is licensed under the AGPL-3.0 License. See the LICENSE file for details.
